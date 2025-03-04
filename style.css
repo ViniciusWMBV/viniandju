@@ -1,0 +1,88 @@
+/* Styles do corpo da pagina */
+body {
+    font-family: Arial, sans-serif; 
+    text-align: center; 
+    background-color: #4169E1;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #333; 
+    margin: 0; 
+    padding: 0; 
+}
+
+.frase{
+    margin-left: 10px;
+    margin-right: 10px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* Estilo do título pdos nomes */
+h1 {
+    color: #ff3399; 
+    font-size: 36px; 
+    margin-bottom: 20px; 
+}
+
+/* Estilo do contador */
+#contador {
+    font-size: 20px; 
+    font-weight: bold; 
+    color: white;
+}
+
+/*Nomes*/
+.nomes{
+    width: 70%;
+    margin-top: 15px;
+}
+
+.elementos p{
+    color: white;
+}
+
+/* Nossa foto*/
+.ftperfil {
+    width: 70%; 
+    max-width: 300px;
+    height: auto; 
+    border-radius: 20px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); 
+}
+
+/* Responsividade para telas médias (como tablets) */
+@media (min-width: 768px) {
+    h1 {
+        font-size: 28px; /* Menor fonte para o título em telas menores */
+    }
+
+    #contador {
+        font-size: 20px; /* Menor tamanho para o contador em telas menores */
+    }
+
+    .elementos{
+        margin-top: 30px; /* Menos margem no topo em telas pequenas */
+    }
+
+    img {
+        max-width: 250px; /* A imagem fica um pouco menor em telas menores */
+    }
+
+    .nomes{
+        width: 90%;
+    }
+}
+
+/* Responsividade para telas pequenas (como smartphones) */
+@media (max-width: 480px) {
+    h1 {
+        font-size: 24px; /* Título ainda menor para telas pequenas */
+    }
+
+    #contador {
+        font-size: 18px; /* Contador com fonte bem ajustada para smartphones */
+    }
+
+    img {
+        max-width: 200px; /* Reduz ainda mais a imagem em telas muito pequenas */
+    }
+}

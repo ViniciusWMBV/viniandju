@@ -1,0 +1,43 @@
+
+var ftGUID_7922486="6255F08C8539F0";
+var ftConfID_7922486="0";
+var ftParams_7922486="ftOBA=1&ft_agentEnv=0&ft_referrer=https://pt.textstudio.com/editor&us_privacy=${US_PRIVACY}&site_url=https://pt.textstudio.com/editor&pub_id=1&sup_platform=1&cachebuster=362519.595663644";
+var ftKeyword_7922486="";
+var ftCustom_7922486="";
+var ftSection_7922486="";
+var ftSegment_7922486="";
+var ftSegmentList_7922486=[];
+var ftRuleMatch_7922486="0";
+var ftTimestamp_7922486="1741121788";
+var ftGeoC2_7922486="br";
+var ftGeoState_7922486="sp";
+var ftGeoCity_7922486="itanhaem";
+var ftISP_7922486="wsnet telecom ltda me";
+var ftSpeed_7922486="broadband";
+var ftConnType_7922486="wifi";
+var ftDMA_7922486="76120";
+var ftLong_7922486="-46.82";
+var ftLat_7922486="-24.19";
+var ftPostal_7922486="11740-000";
+var ftTimeZone_7922486="-300";
+var ftMobileCarrier_7922486="";
+var ftImp7922486 = {};
+ftImp7922486.privacy = "x";
+ftImp7922486.guidAge = "17";
+ftImp7922486.impID = "CDA8D849-73DC-6203-20F8-41BB3D86EB63";
+ftImp7922486.duid = "FT:6255F08C8539F0";
+
+ftImp7922486.ft_tpplid = "";
+ftImp7922486.ft_c = {};
+ftImp7922486.gdpr = "";
+ftImp7922486.gdpr_consent = "";
+ftImp7922486.gdpr_pd = "";
+ftImp7922486.oob_consent = "";
+ftImp7922486.gdprStoredConsent = "";
+ftImp7922486.us_privacy = "!!US_PRIVACY!";
+ftImp7922486.gpc = "";
+
+ftImp7922486.jsAppend = "1";
+var ftCreativeId_7922486 = "4972460";
+(function(){var tag=document.getElementById("ft_servedby_7922486")||function(s){return s[s.length-1]}(document.getElementsByTagName("script")),js=document.createElement("script");js.src="https://ajs-assets.ftstatic.com/ftUtils.js";js.id="ftscript_m7922486";js.setAttribute("name","ftscript_m7922486");tag.parentNode.insertBefore(js,tag)})();window.fTChecker=window.fTChecker||function(id){if(!id)return false;id=""+id;if(window.hasOwnProperty("ftUtils")){window["ft"+id]=Object.assign({},window.ftUtils.common);window["ft"+id].getBannerConfig(id)}else(function(id){window.setTimeout(function(){window.fTChecker(id)},50)})(id)};window.fTChecker("7922486");
+
